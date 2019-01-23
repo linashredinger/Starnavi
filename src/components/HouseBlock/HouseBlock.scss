@@ -1,0 +1,10 @@
+.houseBlock {
+  border-radius: 2px;
+  background-color: #FFFFFF;
+  box-shadow: 0 1px 2px 0 #E6E6E6;
+  padding: 12px 10px;
+  margin: 10px 0;
+  &_spinner {
+    margin: 0 auto;
+  }
+}
